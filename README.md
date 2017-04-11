@@ -1,3 +1,5 @@
+Early preview we expect to have more over the next couple of days, but right now want to get some feedback and provide what we have currently. We hope to move forward swiftly but will take time to prevent unexpected bugs to make sure that the launch is as stable as possible.
+
 This is a decentralized forum built upon the Ethereum blockchain. Users can create topics and posts and comunicate with all the benefits of the Ethereum blockchain: no censorship or downtime.
 
 The code is still work in progress but we hope that it will soon be completed, we are also working on a test suite, user interface for both local use and an external website for less technical users to help them get started. We plan on getting it fully audited so users can be sure that the fundementals are secure.
